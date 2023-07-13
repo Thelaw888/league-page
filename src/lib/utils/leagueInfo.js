@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to our fantasy football website! We are excited to have you join our community of football enthusiasts and share in the excitement of the upcoming season. Whether you are a seasoned fantasy football player or new to the game, our website is designed to provide you with the tools and resources you need to create your own winning team. Our website offers a user-friendly interface that allows you to easily create and manage your team, track player statistics, and stay up-to-date on the latest news and trends in the world of football. We also offer a variety of league types and scoring options to suit your preferences and skill level. At our website, we understand that fantasy football is more than just a game. It is a community of passionate fans who come together to share in the excitement and camaraderie of the sport. That's why we are committed to providing a welcoming and inclusive environment for all members. So, whether you are looking to compete against your friends, join a public league, or simply stay up-to-date on the latest football news, our website has everything you need to make this season a success. Thank you for joining our community, and we look forward to sharing in the excitement of the upcoming season with you!</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
 `;
 
 /*   STEP 3   */
